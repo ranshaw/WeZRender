@@ -2,7 +2,7 @@
   "name": "wezrender",
   "version": "1.0.0",
   "description": "A lightweight canvas library.",
-  "main": "apps/index.js",
+  "main": "",
   "scripts": {},
   "author": "guyoung",
   "homepage": "https://github.com/ranshaw/WeZRender",
