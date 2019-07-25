@@ -1,0 +1,18 @@
+{
+  "name": "wezrender",
+  "version": "1.0.0",
+  "description": "A lightweight canvas library.",
+  "main": "./ec-canvas/echarts",
+  "scripts": {},
+  "author": "guyoung",
+  "homepage": "https://github.com/ranshaw/WeZRender",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranshaw/WeZRender.git"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "echarts": "^4.0.4"
+  }
+}
